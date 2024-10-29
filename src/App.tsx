@@ -162,7 +162,7 @@ export const App = () => {
         <ButtonMobile
           block
           view="primary"
-          href="assistmekz://multistep-route?fromModule=FORM&stepNumber=0&alias=alfa-subscription-alias"
+          href="/multistep-route?fromModule=FORM&stepNumber=0&alias=alfa-subscription-alias"
           onClick={submit}
         >
           Подключить
